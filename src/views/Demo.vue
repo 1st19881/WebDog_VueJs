@@ -1,5 +1,6 @@
 <template>
 <div id="demo1">
+      <h1>hello word</h1>
       <Jamboton/>
 </div>
 </template>
